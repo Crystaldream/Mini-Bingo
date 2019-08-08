@@ -1,5 +1,5 @@
 # Mini_Bingo
-Mini Bingo made with Python.
+Mini Bingo game made with Python.
 No graphical window, the output is in the console.
 
 
